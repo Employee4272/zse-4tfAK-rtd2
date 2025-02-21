@@ -53,4 +53,10 @@ Obraz (z alternatywnym tekstem oraz podpisem)
 Tabela (jeżeli istnieje)
 
 .. toctree::
-    halo?
+   :maxdepth: 2
+
+   intro
+   strings
+   datatypes
+   numeric
+   (many more documents listed here)
