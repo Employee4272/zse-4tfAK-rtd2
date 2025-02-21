@@ -51,3 +51,6 @@ Obraz (z alternatywnym tekstem oraz podpisem)
    :alt: GitHub template for the tutorial
 
 Tabela (jeżeli istnieje)
+
+.. toctree::
+    halo?
