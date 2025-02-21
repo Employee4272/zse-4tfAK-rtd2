@@ -26,19 +26,28 @@ blokowy
    No module named 'lumache'
    WARNING: autodoc: failed to import exception 'InvalidKindError' from module 'lumache'; the following exception was raised:
    No module named 'lumache'
+
 Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
+
 inny serwis
+
 `Sign in to GitHub <https://github.com/login>`
+
 lokalny
+
 `webhooks <webhook>`
+
 Listy (numerowana, wypunktowana, definicji)
+
 Warto kupić:
-#. marchewki
-#. borówki
-#. śmietane
+    #. marchewki
+    #. borówki
+    #. śmietane
+
 Obraz (z alternatywnym tekstem oraz podpisem)
 .. figure:: /_static/images/tutorial/github-template.png
    :width: 80%
    :align: center
    :alt: GitHub template for the tutorial
+
 Tabela (jeżeli istnieje)
