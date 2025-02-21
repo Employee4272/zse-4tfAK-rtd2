@@ -21,4 +21,28 @@ Contents
    usage
    api
 
-TESSSSSSSSSSSSSSSSSSSSSSSSSSSSST
+
+
+    Nagłówki tekstowe (poziomy 1-4)
+
+Nagłówek pierwszego stopnia
+===================================
+
+    Akapit tekstowy (treść)
+akapit tekstowy
+
+    Akapit informacyjny (Note, Tip)
+
+.. note::
+
+   akapit informacyjny
+
+    Fragment kodu (liniowy, blokowy)
+
+    Odnośnik (lokalny RtD, zewnętrzny-inny serwis)
+
+    Listy (numerowana, wypunktowana, definicji)
+
+    Obraz (z alternatywnym tekstem oraz podpisem)
+
+    Tabela (jeżeli istnieje)
